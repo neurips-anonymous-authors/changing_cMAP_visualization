@@ -13,3 +13,5 @@ pip install pillow==10.2.0
 The visualization image will be generated at `visualization_cMAP.png`.
 
 In each row of the visualization, we visualize the original image and anonymized images of different cMAP values. The images are from VISPR dataset. *Lower cMAP values indicates better privacy preservation performance*.
+
+![visualization_cmal](visualization_cMAP.png "Visualization of the same image with changing cMAP")
